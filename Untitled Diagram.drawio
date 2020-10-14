@@ -1,1 +1,122 @@
-<mxfile host="app.diagrams.net" modified="2020-10-14T07:47:02.852Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36 Edg/86.0.622.38" version="13.7.9" etag="LBZasddS64rBltFRNvFW" type="github"><diagram id="1yE1YIFTyuZiacZVZYEZ">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-10-14T09:08:17.841Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36 Edg/86.0.622.38" etag="IjeHo4xuDSPNAJKKtYZZ" version="13.7.9" type="github">
+  <diagram id="1yE1YIFTyuZiacZVZYEZ" name="Page-1">
+    <mxGraphModel dx="1038" dy="617" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Bu7rBUYaRxNv8Jw8IRWM-1" value="&lt;b style=&quot;line-height: 110%&quot;&gt;&lt;font style=&quot;font-size: 18px&quot; color=&quot;#6666ff&quot;&gt;Take NPTEL Course ?&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="310" y="140" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Bu7rBUYaRxNv8Jw8IRWM-5" value="" style="html=1;shadow=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.bendArrow;dy=2.6;dx=36;notch=0;arrowHead=30.8;rounded=0;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="220" y="210" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Bu7rBUYaRxNv8Jw8IRWM-7" value="&lt;font style=&quot;font-size: 22px&quot;&gt;&lt;b&gt;No ?&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="100" y="260" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Bu7rBUYaRxNv8Jw8IRWM-9" value="&lt;font style=&quot;font-size: 16px&quot;&gt;Then, It&#39;s Not for you ;)&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="20" y="175" width="250" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="Bu7rBUYaRxNv8Jw8IRWM-10" value="" style="endArrow=classic;html=1;shape=flexArrow;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="260" as="sourcePoint" />
+            <mxPoint x="160" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Bu7rBUYaRxNv8Jw8IRWM-22" value="" style="endArrow=classic;html=1;shape=flexArrow;shadow=0;" edge="1" parent="1" source="Bu7rBUYaRxNv8Jw8IRWM-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="425" y="420" as="sourcePoint" />
+            <mxPoint x="560" y="300" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="450" y="300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Bu7rBUYaRxNv8Jw8IRWM-23" value="&lt;span style=&quot;font-size: 22px&quot;&gt;&lt;b&gt;YESSS&lt;/b&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="560" y="260" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Bu7rBUYaRxNv8Jw8IRWM-25" value="" style="endArrow=classic;html=1;shadow=0;gradientColor=#C3ABD0;shape=flexArrow;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="619.5" y="340" as="sourcePoint" />
+            <mxPoint x="620" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Bu7rBUYaRxNv8Jw8IRWM-26" value="&lt;font style=&quot;font-size: 22px&quot;&gt;&lt;b&gt;Registration Complete ?&amp;nbsp;&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="470" y="410" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Bu7rBUYaRxNv8Jw8IRWM-30" value="&lt;font&gt;&lt;b style=&quot;font-size: 14px&quot;&gt;Go and Complete your Registration&lt;/b&gt;&lt;br&gt;&lt;b style=&quot;font-size: 14px&quot;&gt;here --&amp;gt; &lt;/b&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;i&gt;&lt;font color=&quot;#ff9933&quot;&gt;https://examform.nptel.ac.in/&lt;/font&gt;&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="20" y="410" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Bu7rBUYaRxNv8Jw8IRWM-31" value="" style="html=1;shadow=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.bendArrow;dy=5;dx=16.4;notch=0;arrowHead=30.8;rounded=0;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="400" y="470" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Bu7rBUYaRxNv8Jw8IRWM-32" value="&lt;font style=&quot;font-size: 22px&quot;&gt;&lt;b&gt;No ?&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="300" y="460" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Bu7rBUYaRxNv8Jw8IRWM-45" value="" style="endArrow=classic;html=1;shadow=0;strokeWidth=3;exitX=0;exitY=0.5;exitDx=0;exitDy=0;labelBorderColor=#000000;" edge="1" parent="1" source="Bu7rBUYaRxNv8Jw8IRWM-32">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="170" y="520" as="sourcePoint" />
+            <mxPoint x="220" y="470" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="260" y="520" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Bu7rBUYaRxNv8Jw8IRWM-46" value="&lt;span style=&quot;font-size: 22px&quot;&gt;&lt;b&gt;YESSS&lt;/b&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="570" y="540" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Bu7rBUYaRxNv8Jw8IRWM-47" value="" style="endArrow=classic;html=1;shadow=0;gradientColor=#C3ABD0;shape=flexArrow;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="629.5" y="470" as="sourcePoint" />
+            <mxPoint x="630" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Bu7rBUYaRxNv8Jw8IRWM-48" value="&lt;font&gt;&lt;b&gt;&lt;font style=&quot;font-size: 21px&quot;&gt;Pay Registration fees&amp;nbsp;&lt;/font&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="510" y="690" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Bu7rBUYaRxNv8Jw8IRWM-49" value="" style="endArrow=classic;html=1;shadow=0;gradientColor=#C3ABD0;shape=flexArrow;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="629.5" y="620" as="sourcePoint" />
+            <mxPoint x="630" y="690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Bu7rBUYaRxNv8Jw8IRWM-50" value="" style="html=1;shadow=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.bendArrow;dy=5;dx=16.4;notch=0;arrowHead=30.8;rounded=0;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="470" y="750" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Bu7rBUYaRxNv8Jw8IRWM-51" value="&lt;b&gt;&lt;font style=&quot;font-size: 19px&quot;&gt;Complete ?&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="570" y="820" width="150" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Bu7rBUYaRxNv8Jw8IRWM-52" value="" style="endArrow=classic;html=1;shadow=0;strokeWidth=3;exitX=0;exitY=0.5;exitDx=0;exitDy=0;labelBorderColor=#000000;entryX=1.005;entryY=0.333;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="Bu7rBUYaRxNv8Jw8IRWM-54">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="590" y="910" as="sourcePoint" />
+            <mxPoint x="510" y="910" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Bu7rBUYaRxNv8Jw8IRWM-54" value="&lt;font style=&quot;font-size: 20px&quot;&gt;Enjoy :)&lt;/font&gt;" style="shape=card;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="400" y="880" width="80" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Bu7rBUYaRxNv8Jw8IRWM-56" value="" style="endArrow=classic;html=1;shadow=0;gradientColor=#C3ABD0;shape=flexArrow;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="639.5" y="750" as="sourcePoint" />
+            <mxPoint x="640" y="820" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Bu7rBUYaRxNv8Jw8IRWM-57" value="&lt;span style=&quot;font-size: 22px&quot;&gt;&lt;b&gt;Noo&lt;/b&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="350" y="730" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Bu7rBUYaRxNv8Jw8IRWM-58" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;&lt;span style=&quot;color: rgb(34 , 34 , 34) ; font-family: &amp;#34;arial&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255)&quot;&gt;If you register for the exam and pay before&lt;/span&gt;&lt;span style=&quot;color: rgb(34 , 34 , 34) ; font-family: &amp;#34;arial&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255)&quot;&gt;&amp;nbsp;Oct 28, 10:00 AM&lt;/span&gt;&lt;span style=&quot;color: rgb(34 , 34 , 34) ; font-family: &amp;#34;arial&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255)&quot;&gt;, Exam fees will be&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: rgb(34 , 34 , 34) ; font-family: &amp;#34;arial&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255)&quot;&gt;Rs. 1000/- per exam,&lt;br&gt;&lt;/span&gt;After Octo 28, you have to pay an extra 500.&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="30" y="735" width="270" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="Bu7rBUYaRxNv8Jw8IRWM-59" value="" style="endArrow=classic;html=1;shadow=0;strokeWidth=3;exitX=0;exitY=1;exitDx=0;exitDy=0;labelBorderColor=#000000;" edge="1" parent="1" source="Bu7rBUYaRxNv8Jw8IRWM-57">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="805" as="sourcePoint" />
+            <mxPoint x="300" y="780" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="340" y="805" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
