@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-25T19:46:22.492Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="BTItx7vHCyMk6SIjyRa8" version="17.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-25T19:50:35.857Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="BrXh0-b-P22qsjXSs8Du" version="17.2.4" type="github">
   <diagram id="ON_uFstYy1kafic6odtV" name="Page-1">
-    <mxGraphModel dx="401" dy="240" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1738" dy="1040" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -213,6 +213,9 @@
         <mxCell id="_phNsCbLZBcsNUAs6Ilp-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.014;entryY=0.603;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=13;" edge="1" parent="1" source="_phNsCbLZBcsNUAs6Ilp-109" target="_phNsCbLZBcsNUAs6Ilp-120">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="_phNsCbLZBcsNUAs6Ilp-145" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;fontSize=10;" edge="1" parent="1" source="_phNsCbLZBcsNUAs6Ilp-109" target="_phNsCbLZBcsNUAs6Ilp-141">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="_phNsCbLZBcsNUAs6Ilp-109" value="&lt;font style=&quot;font-size: 17px&quot;&gt;Payment&lt;br&gt;Gateway&lt;br&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="305" y="660" width="100" height="100" as="geometry" />
         </mxCell>
@@ -299,8 +302,31 @@
         <mxCell id="_phNsCbLZBcsNUAs6Ilp-137" value="send response in csv file" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="550" y="940" width="160" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="_phNsCbLZBcsNUAs6Ilp-138" value="&lt;font style=&quot;font-size: 11px&quot;&gt;generate user data&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="365" y="80" width="110" height="20" as="geometry" />
+        <mxCell id="_phNsCbLZBcsNUAs6Ilp-138" value="&lt;font style=&quot;font-size: 11px&quot;&gt;generate user report&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="365" y="80" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_phNsCbLZBcsNUAs6Ilp-140" value="csv response" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=7;" vertex="1" parent="1">
+          <mxGeometry x="425" y="110" width="60" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="_phNsCbLZBcsNUAs6Ilp-142" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;fontSize=7;" edge="1" parent="1" source="_phNsCbLZBcsNUAs6Ilp-141" target="_phNsCbLZBcsNUAs6Ilp-120">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="565" y="770" />
+              <mxPoint x="745" y="770" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_phNsCbLZBcsNUAs6Ilp-141" value="User" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="522.5" y="870" width="85" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_phNsCbLZBcsNUAs6Ilp-143" value="&lt;font style=&quot;font-size: 10px&quot;&gt;req for download or view ticket&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=7;" vertex="1" parent="1">
+          <mxGeometry x="570" y="775" width="150" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="_phNsCbLZBcsNUAs6Ilp-144" value="send ticket data" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="595" y="750" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_phNsCbLZBcsNUAs6Ilp-146" value="send payment details in email" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="390" y="740" width="150" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
